@@ -1,0 +1,25 @@
+body {
+    background-image: url("https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/shape/cover/sport/sb10066898c-001-d96c66a94121a9e805e97c73a3c289c5.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+h1 {
+    color: white;
+    font-size: 100px;
+    margin-top: 500px;
+    font-weight: bold;
+    margin-left: 50px;
+}
+h1:hover {
+    text-shadow: 0 0 5px white,
+    0 0 25px white,
+    0 0 50px white,
+    0 0 100px white;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+a:visited {
+    color: white;
+}
