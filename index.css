@@ -1,7 +1,12 @@
-body {
+#hatter {
     background-image: url("https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/shape/cover/sport/sb10066898c-001-d96c66a94121a9e805e97c73a3c289c5.jpg");
     background-repeat: no-repeat;
     background-size: 100%;
+}
+#tortenet {
+    background-image: url("background.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
 }
 h1 {
     color: white;
@@ -22,4 +27,31 @@ a {
 }
 a:visited {
     color: white;
+}
+#fejlec {
+    background-color: black;
+    overflow: hidden;
+}
+.keret {
+    display: inline;
+    float: left;
+}
+#fejlec a {
+    display: block;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+}
+.active {
+    float: left;
+    display: inline;
+    background-color: grey;
+}
+#fejlec a:hover {
+    background-color: grey;
+}
+.szoveg {
+    padding-left: 20px;
+    text-align: justify;
 }
