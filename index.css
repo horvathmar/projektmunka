@@ -53,9 +53,25 @@ a:visited {
 }
 .szoveg {
     padding-left: 20px;
+    padding-right: 40px;
     text-align: justify;
+    font-size: 20px;
 }
 table, td, th {
     border-collapse: collapse;
     border: 2px solid black;
+}
+table {
+    text-align: center;
+}
+.cím {
+    background-color: blue;
+}
+h2 {
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+}
+img {
+    width: 10%;
 }
