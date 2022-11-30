@@ -63,9 +63,12 @@ table, td, th {
 }
 table {
     text-align: center;
+    margin-left: 50px;
+    margin-bottom: 30px;
 }
 .cím {
-    background-color: blue;
+    background-color: black;
+    color: white;
 }
 h2 {
     color: black;
@@ -73,5 +76,5 @@ h2 {
     font-weight: bold;
 }
 img {
-    width: 10%;
+    width: 5%;
 }
