@@ -55,6 +55,6 @@ a:visited {
     padding-left: 20px;
     text-align: justify;
 }
-table, td, th, tr {
+table, td, th {
     border-collapse: collapse;
 }
