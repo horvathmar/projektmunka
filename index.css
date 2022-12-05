@@ -11,14 +11,14 @@ body {
     background-size: 100%;
     background-repeat: no-repeat;
 }
-h1 {
+.elsocim {
     color: white;
     font-size: 100px;
     margin-top: 500px;
     font-weight: bold;
     margin-left: 50px;
 }
-h1:hover {
+.elsocim:hover {
     text-shadow: 0 0 5px white,
     0 0 25px white,
     0 0 50px white,
