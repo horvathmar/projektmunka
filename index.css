@@ -1,7 +1,8 @@
 body {
     margin-top: 100px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-h1 {
+.cimh1 {
     color: black;
     text-align: center;
 }
@@ -128,7 +129,11 @@ h2 {
     font-weight: bold;
 }
 img {
-    width: 5%;
+    padding: 50px;
+}
+img:hover {
+    transition: ease-in-out 0.1s;
+    scale: 130%;
 }
 .bl {
     background-color: rgba(45, 112, 189, 0.281);
