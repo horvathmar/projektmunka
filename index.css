@@ -7,7 +7,7 @@ body {
     text-align: center;
 }
 #hatter {
-    background-image: url("https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/shape/cover/sport/sb10066898c-001-d96c66a94121a9e805e97c73a3c289c5.jpg");
+    background-image: url("kep.jpg");
     background-repeat: no-repeat;
     background-size: 100%;
 }
@@ -21,7 +21,7 @@ body {
     font-size: 100px;
     margin-top: 500px;
     font-weight: bold;
-    margin-left: 50px;
+    margin-left: 500px;
 }
 .elsocim:hover {
     text-shadow: 0 0 5px white,
