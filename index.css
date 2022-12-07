@@ -128,12 +128,12 @@ h2 {
     font-size: 40px;
     font-weight: bold;
 }
-img {
+.csapatlogo {
     padding: 50px;
     padding-left: 200px;
     width: 10%;
 }
-img:hover {
+.csapatlogo:hover {
     transition: ease-in-out 0.1s;
     scale: 130%;
 }
@@ -147,4 +147,24 @@ img:hover {
     background-color: black;
     color: white;
     border-bottom: 5px solid rgba(255, 153, 0);
+}
+.bllogo {
+    float: right;
+    width: 20%;
+    margin-right: 100px;
+}
+.blkupa {
+    width: 20%;
+    float: right;
+    margin-right: 200px;
+}
+.ellogo {
+    width: 20%;
+    float: right;
+    margin-right: 100px;
+}
+.elkupa {
+    width: 20%;
+    float: right;
+    margin-right: 200px;
 }
