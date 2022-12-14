@@ -50,3 +50,10 @@ table, td, th {
     background-color: red;
     
 }
+.realtable {
+    background-color: rgb(234, 235, 206);
+}
+.realcim {
+    background-color: darkkhaki;
+    text-align: center;
+}
