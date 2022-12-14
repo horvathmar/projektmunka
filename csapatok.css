@@ -17,6 +17,9 @@ a {
 a:hover {
     text-decoration: underline;
 }
+table {
+    padding: 20px;
+}
 table, td, th {
     border-collapse: collapse;
     border: 2px solid black;
@@ -40,8 +43,10 @@ table, td, th {
 }
 .kuboktable {
     color: black;
+    background-color: rgba(28, 63, 109, 0.329);
 }
 .csapatcim {
     text-align: center;
+    background-color: red;
     
 }

@@ -176,3 +176,17 @@ h2 {
 .vb {
     background-color:rgba(114, 117, 114, 0.267);
 }
+.vb2 {
+    background-color: rgba(114, 117, 114, 0.267);
+    width: 40%;
+}
+.vblogo {
+    float: right;
+    width: 20%;
+    margin-right: 100px;
+}
+.vbkupa {
+    float: right;
+    width: 20%;
+    margin-right: 200px;
+}
