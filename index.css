@@ -190,3 +190,25 @@ h2 {
     width: 20%;
     margin-right: 200px;
 }
+.ebtable {
+    background-color: rgba(184, 184, 211, 0.322);
+    
+}
+.ebcim {
+    background-color: rgb(45, 48, 241);
+    color: white;
+}
+.ebtable2 {
+    background-color: rgba(184, 184, 211, 0.322);
+    width: 40%;
+}
+.eblogo {
+    float: right;
+    width: 20%;
+    margin-right: 100px;
+}
+.ebkupa {
+    float: right;
+    margin-right: 200px;
+    width: 20%;
+}
