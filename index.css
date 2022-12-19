@@ -212,3 +212,19 @@ h2 {
     margin-right: 200px;
     width: 20%;
 }
+.regikep {
+    float: right;
+    width: 25%;
+    padding: 20px;
+}
+.masikkep {
+    float: right;
+    width: 25%;
+    padding: 20px;
+    margin-right: 100px;
+}
+.harmadikkep {
+    float: right;
+    width: 25%;
+    padding: 40px;
+}
