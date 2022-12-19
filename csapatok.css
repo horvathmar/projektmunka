@@ -19,6 +19,7 @@ a:hover {
 }
 table {
     padding: 20px;
+    margin-bottom: 30px;
 }
 table, td, th {
     border-collapse: collapse;
@@ -43,11 +44,12 @@ table, td, th {
 }
 .kuboktable {
     color: black;
-    background-color: rgba(28, 63, 109, 0.329);
+    background-color: rgb(61, 38, 190);
 }
 .csapatcim {
     text-align: center;
     background-color: red;
+    color: white;
     
 }
 .realtable {
@@ -55,5 +57,29 @@ table, td, th {
 }
 .realcim {
     background-color: darkkhaki;
+    text-align: center;
+}
+.liverpooltablazat {
+        background-color: rgb(230, 114, 114);
+}
+.liverpoolcim {
+    color: white;
+    background-color: red;
+    text-align: center;
+}
+.mancitytable {
+    background-color: rgb(0, 174, 255);
+}
+.mancitycim {
+    background-color: rgb(0, 89, 255);
+    color: white;
+    text-align: center;
+}
+.manunitedtable {
+        background-color: rgba(255, 145, 0, 0.89);
+}
+.manunitedcim {
+    color: white;
+    background-color: rgb(202, 21, 21);
     text-align: center;
 }
