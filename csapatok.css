@@ -44,7 +44,7 @@ table, td, th {
 }
 .kuboktable {
     color: black;
-    background-color: rgb(61, 38, 190);
+    background-color: rgba(184, 184, 211, 0.322);
 }
 .csapatcim {
     text-align: center;
@@ -82,4 +82,28 @@ table, td, th {
     color: white;
     background-color: rgb(202, 21, 21);
     text-align: center;
+}
+.bayerncim {
+    text-align: center;
+    color: white;
+    background-color: red;
+}
+.bayerntable {
+    background-color: rgba(184, 184, 211, 0.322);
+}
+.psgcim {
+    color: white;
+    text-align: center;
+    background-color: rgb(26, 36, 52);
+}
+.psgtable {
+    background-color: rgba(184, 184, 211, 0.322);
+}
+.juventustable {
+    background-color: white;
+}
+.juventuscim {
+    background-color: black;
+    text-align: center;
+    color: white;
 }
