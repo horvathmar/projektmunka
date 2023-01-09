@@ -107,3 +107,18 @@ table, td, th {
     text-align: center;
     color: white;
 }
+.elsokep {
+    width: 10%;
+    float: right;
+    margin-right: 100px;
+}
+.masodikkep {
+    width: 10%;
+    margin-right: 50px;
+    float: right;
+}
+.harmadikkep {
+    width: 10%;
+    margin-right: 100px;
+    float: right;
+}
